@@ -2,3 +2,6 @@
 
 *.csv
 *.xlsx
+
+drivers/
+geckodriver.log
